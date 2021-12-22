@@ -39,7 +39,7 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Animix Private Limited</title>
+      Animix Private Limited
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
@@ -81,7 +81,7 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Animix Private Limited</title>
+       Animix Private Limited
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
@@ -264,13 +264,13 @@ Publish the website in the given URL.
         </div>
       </body>
     </html>
-    </body>
+    </body>  
 </html>
 ### Contact coding: 
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Animix Private Limited</title>
+       Animix Private Limited
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
