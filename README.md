@@ -35,6 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 ### Home coding:
 <!DOCTYPE html>
 <html lang="en">
@@ -76,7 +77,8 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
+```
 ### Products coding:
 <!DOCTYPE html>
 <html lang="en">
@@ -192,7 +194,8 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
+```
 ### People coding:
 <!DOCTYPE html>
 <html>
@@ -266,6 +269,8 @@ Publish the website in the given URL.
     </html>
     </body>  
 </html>
+```
+```
 ### Contact coding: 
 <!DOCTYPE html>
 <html lang="en">
@@ -307,49 +312,5 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 ## OUTPUT:
-```
-### Home Page:
-      <!DOCTYPE html>
-<html lang="en">
-  <head>
-      Animix Private Limited
-    <link rel="stylesheet" href="./css/layout.css" />
-    <link rel="icon" href="./img/icon.png" type="image/x-icon" />
-  </head>
-
-  <body>
-    <div class="container">
-      <div class="banner">Animix Private Limited.</div>
-      <div class="menu">
-        <div class="menuitemselected"><a href="/static/home.html">Home</a></div>
-        <div class="menuitem"><a href="/static/products.html">Products</a></div>
-        <div class="menuitem"><a>People</a></div>
-        <div class="menuitem"><a>Contact Us</a></div>
-      </div>
-      <div class="content">
-        <div class="homecontent">
-          <h1>About Us</h1>
-          <img src="https://www.fortressofsolitude.co.za/wp-content/uploads/2019/05/The-15-Most-Powerful-Anime-Characters-Of-All-Time-scaled.jpg" alt="The 15 Most Powerful &amp;amp; Strongest Anime Characters Of All Time" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 300px; height: 300px; margin: 0px padding right: 40px;">
-          <div class="contenttext">
-            Wide Range of products of anime DVD & Blu-ray including subtitles and audio in many languages,CD with music,dreama,radio,seiyu/voice artist and vocaloid.
-            <br />
-            Action-packed adventures,offbeat comedies,inspirational stories -- these anime movies and TV shows have a style and spirit unlike anything else.
-            <ul>
-              <li>All seasons available at affordable price</li>
-              <li>Available in multiple languages</li>
-              <li>Anywhere, anytime and secure access</li>
-              <li>Safe and Secure online payment</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="footer">
-        Copyright &#169; 2021 Animix Private Limited, Developed by Vineesh.M.
-      </div>
-    </div>
-  </body>
-</html>
-```
-      
