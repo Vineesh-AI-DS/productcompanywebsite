@@ -322,4 +322,5 @@ Publish the website in the given URL.
 ![Screenshot 2021-12-22 212812](https://user-images.githubusercontent.com/93427254/147140646-d62a09c9-4d2e-45f4-ab2e-c15a77bd667e.png)
 ### Contact:
 ![Screenshot 2021-12-22 213039](https://user-images.githubusercontent.com/93427254/147140742-7f828ae9-3511-41b5-a6fa-0c47a1239d59.png)
-
+## RESULT:
+Thus a website is designed for the software product company and the HTML,CSS code are validated.
