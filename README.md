@@ -197,7 +197,7 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Animix Private Limited.</title>
+          Animix Private Limited.
         <link rel="stylesheet" href="./css/layout.css" />       
          <link rel="icon" href="./img/icon.png" type="image/x-icon" />
     </head>
