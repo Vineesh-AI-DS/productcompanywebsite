@@ -314,3 +314,12 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
+### Home:
+![Screenshot 2021-12-22 212703](https://user-images.githubusercontent.com/93427254/147140518-ef0310d0-388a-4be5-a342-fc54c451a84c.png)
+### Products:
+![Screenshot 2021-12-22 212905](https://user-images.githubusercontent.com/93427254/147140578-391d0e79-b3fe-4621-959a-25eec7139c46.png)
+### People:
+![Screenshot 2021-12-22 212812](https://user-images.githubusercontent.com/93427254/147140646-d62a09c9-4d2e-45f4-ab2e-c15a77bd667e.png)
+### Contact:
+![Screenshot 2021-12-22 213039](https://user-images.githubusercontent.com/93427254/147140742-7f828ae9-3511-41b5-a6fa-0c47a1239d59.png)
+
